@@ -1,0 +1,24 @@
+
+# Quarter Lecture Concepts
+
+              
+[[FileSystems]] 
+
+[[ProcessManagement]]
+
+[[Permissions]]
+
+[[Network]]
+
+[[Resources]]: CPU, Mem, Disk
+
+[[Abstractions]]: Zones, containers, java and VM's.
+
+```
+ Note: you can use tripple backticks ```
+                              to write whatever you would like
+                 and keep
+your formatting......     .....                .....
+
+
+```
